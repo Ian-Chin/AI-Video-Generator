@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Generator",
+  "description": "Generate stunning, high-quality videos from text prompts using the power of generative AI. Describe your vision, and watch it come to life in a short video clip.",
+  "requestFramePermissions": []
+}
